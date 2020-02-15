@@ -1,1 +1,1 @@
-# CompMethods
+# DigMethods
